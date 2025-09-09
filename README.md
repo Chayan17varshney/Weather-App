@@ -3,7 +3,7 @@
 
 A beautiful, themeable weather application built with Python and Tkinter.
 
-![App Screenshot](assets/screenshot.png)  <!-- Add a screenshot later -->
+<img width="2559" height="1490" alt="image" src="https://github.com/user-attachments/assets/76ad64c6-e5fa-4000-b225-f40a5f93d4e9" />
 
 ## Features
 
