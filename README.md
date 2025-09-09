@@ -4,6 +4,7 @@
 A beautiful, themeable weather application built with Python and Tkinter.
 
 <img width="2559" height="1490" alt="image" src="https://github.com/user-attachments/assets/76ad64c6-e5fa-4000-b225-f40a5f93d4e9" />
+Working example for a London search result for the current weather.
 
 ## Features
 
